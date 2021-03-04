@@ -1,0 +1,10 @@
+@import "../../design-tokens/mixins";
+
+.auto {
+  @include container();
+}
+
+.auto__top {
+  display: flex;
+  flex-wrap: wrap;
+}

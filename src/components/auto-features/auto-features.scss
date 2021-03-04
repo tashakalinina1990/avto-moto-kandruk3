@@ -1,0 +1,15 @@
+.auto-features {
+  margin: 0;
+  padding: 33px 0 0 0;
+  list-style: none;
+}
+
+.auto-features__item {
+  padding-bottom: 13px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 565px;
+  border-bottom: 1px solid #D7D9DF;
+}
